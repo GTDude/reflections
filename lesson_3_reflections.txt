@@ -1,3 +1,13 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 If you are sharing your work
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+you dont want your local work to be merged with the github data unless you choose to do so. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork copies the folder on github to another folder under my control. Aclobne creates a copy of a folder on my local either from local or remote.
+a branch is a changed version of a previous master or branch
+
