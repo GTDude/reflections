@@ -17,3 +17,11 @@ if they are not official game progress or linear bug fixes.organization
 How do the diagrams help you visualize the branch structure?
 
 it makes clear the path through to init
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It incorporates all changes from the master to the tip of each merge branch. The diagram makes it easy to see
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git does the merges automatically where it can determine best version. you still manually resolve conflicts
